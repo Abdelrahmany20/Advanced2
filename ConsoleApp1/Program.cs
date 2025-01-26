@@ -189,6 +189,37 @@
             #endregion
 
 
+            #region Q09
+            //static List<int> Common(List<int> list1, List<int> list2)
+            //{
+            //List<int> common = new List<int>();
+
+            //foreach (int num in list1)
+            //{
+            //if (list2.Contains(num))
+            //{
+
+            //common.Add(num);
+            //}
+
+            //}
+
+            //return common;
+            //}
+
+
+
+
+            //List<int> list1 = new List<int> { 1, 2, 3, 4, 4 };
+            //List<int> list2 = new List<int> { 10, 4, 4 };
+
+            //int result=Common(list1, list2);
+            //Console.WriteLine(result);
+
+
+            #endregion
+
+
 
         }
     }

@@ -156,6 +156,39 @@
             //} 
             #endregion
 
+            #region Q08
+            //static void Search(int Thenum)
+            //{
+            //    Stack<int> stack = new Stack<int>();
+
+            //    stack.Push(1);
+            //    stack.Push(2);
+            //    stack.Push(3);
+            //    stack.Push(4);
+            //    stack.Push(5);
+            //    stack.Push(6);
+            //    stack.Push(7);
+
+            //    if (stack.Contains(Thenum))
+            //    {
+            //        Console.WriteLine($"Target was found successfully.");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Target was not found.");
+            //    }
+
+
+
+            //}
+            //Console.Write("Enter the number: ");
+            //int Thenum = int.Parse(Console.ReadLine());
+
+            //Search(Thenum);
+
+            #endregion
+
+
 
         }
     }

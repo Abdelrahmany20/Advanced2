@@ -27,5 +27,46 @@
             //    Console.WriteLine("NO");
             //}
             #endregion        }
+
+            #region Q03
+            //static void Reverse(Queue<int> queue)
+            //{
+            //Stack<int> stack = new Stack<int>();
+
+            //foreach (int num in queue)
+            //{
+            //stack.Push(num);
+            //}
+
+            //queue.Clear();
+            //foreach (int num in stack)
+            //{
+            //queue.Enqueue(num);
+            //}
+            //}
+
+
+
+
+
+            //Queue<int> queue = new Queue<int>();
+            //queue.Enqueue(1);
+            //queue.Enqueue(2);
+            //queue.Enqueue(3);
+            //queue.Enqueue(4);
+            //queue.Enqueue(5);
+
+            //Reverse(queue);
+
+            //foreach (int num in queue)
+            //{
+
+            //Console.Write(num );
+            //}
+
+
+            #endregion
+
         }
     }
+}

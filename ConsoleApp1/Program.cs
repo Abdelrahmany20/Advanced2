@@ -67,6 +67,50 @@
 
             #endregion
 
+            #region Q05
+            //static int[] remove(int[] array)
+            //{
+            //int[] result = new int[array.Length];
+            //int index = 0;
+
+            //for (int i = 0; i < array.Length; i++)
+            //{
+            //bool exists = false;
+
+            //for (int j = 0; j < index; j++)
+            //{
+            //if (array[i] == result[j])
+            //{
+            //exists = true;
+            //}
+
+
+            //}
+            //}
+
+
+
+
+            //return result;
+            //}
+
+
+
+
+            //int[] arr = { 1, 2, 2, 3, 4, 4,4 };
+
+
+            //Console.WriteLine("Array without duplicates:");
+            //for (int i = 0; i < arr.Length; i++)
+            //{
+            //Console.Write(arr[i] );
+            //}
+
+            //int removearr =(int) remove(arr);
+
+
+            #endregion
+
         }
     }
 }

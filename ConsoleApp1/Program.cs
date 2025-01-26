@@ -142,6 +142,21 @@
             //} 
             #endregion
 
+            #region Q07
+            //Queue<object> queue = new Queue<object>();
+
+            //queue.Enqueue(1);           
+            //queue.Enqueue("Apple");    
+            //queue.Enqueue(5.28);       
+
+            //Console.WriteLine("Result :");
+            //foreach (var result in queue)
+            //{
+            //Console.WriteLine(result);
+            //} 
+            #endregion
+
+
         }
     }
 }

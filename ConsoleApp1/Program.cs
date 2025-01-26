@@ -220,6 +220,48 @@
             #endregion
 
 
+            #region Q11
+
+
+            //static void Reverse(Queue<int> queue)
+            //{
+            //Stack<int> stack = new Stack<int>();
+
+            //for (i=0,i<K ,i++)
+            //{
+            //stack.Push(num);
+            //}
+
+            //queue.Clear();
+            //foreach (int num in stack)
+            //{
+            //queue.Enqueue(num);
+            //}
+            //}
+
+
+
+
+
+            //Queue<int> queue = new Queue<int>();
+            //queue.Enqueue(1);
+            //queue.Enqueue(2);
+            //queue.Enqueue(3);
+            //queue.Enqueue(4);
+            //queue.Enqueue(5);
+
+
+
+            //int k = 2;
+            //Reverse(queue);
+
+            //foreach (int num in queue)
+            //{
+
+            //Console.Write(num );
+            //}
+
+            #endregion
 
         }
     }

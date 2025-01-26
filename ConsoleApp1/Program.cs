@@ -111,6 +111,37 @@
 
             #endregion
 
+            #region Q06
+
+            //static void RemoveOddNumbers(List<int> nums)
+            //{
+            //for (int i = nums.Count - 1; i >= 0; i--)
+            //{
+            //if (nums[i] % 2 != 0) 
+            //{
+            //nums.RemoveAt  (i); 
+            //}
+            //}
+            //}
+
+
+
+
+
+
+
+
+            //List<int> numbers = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+            //RemoveOddNumbers(numbers);
+
+            //Console.WriteLine("After remove :");
+            //foreach (int number in numbers)
+            //{
+            //Console.Write(number);
+            //} 
+            #endregion
+
         }
     }
 }
